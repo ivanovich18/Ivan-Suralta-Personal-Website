@@ -1,5 +1,5 @@
 # My Personal Website
-## This is my personal website using only pure HTML and CSS. It is not responsive as of the moment and can only be viewed properly on desktop. Mobile responsive design will come up later. Will finalize this once finished learning ReactJS, Bootstrap, and responsive web design
+## This is my personal website using only pure HTML and CSS. It is not responsive as of the moment and can only be viewed properly on desktop. Mobile responsive design will come up later. Will finalize this once finished learning ReactJS, Bootstrap, and responsive web design.
 ### Languages used:
 - HTML
 - CSS
